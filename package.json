@@ -1,0 +1,15 @@
+{
+  "name": "mimeocode",
+  "version": "1.0.0",
+  "description": "A module to copy boilerplate code for new projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Joni Halabi",
+  "license": "ISC",
+  "dependencies": {
+    "nodegit": "^0.26",
+    "fs-extra": "^8.1"
+  }
+}
