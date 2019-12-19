@@ -1,5 +1,5 @@
 /**
- * Mimeocode help
+ * Mimeocode help.
  */
 
 module.exports = {
@@ -18,9 +18,10 @@ module.exports = {
 
     // The help message, as a template literal for formatting purposes.
     const message = `
-Usage: node index.js [project] [destination] [-i id] [-t title]
+Usage: node index.js [project] [destination]
 
 Available projects include:
+  - gutenberg-block
   - gutenberg-plugin
   - static-website
     `;
