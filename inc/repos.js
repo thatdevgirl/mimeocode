@@ -8,7 +8,8 @@ module.exports = {
   list: {
     'gutenberg-block':  'https://github.com/That-Dev-Girl-Boilerplates/gutenberg-block-base.git',
     'gutenberg-plugin': 'https://github.com/That-Dev-Girl-Boilerplates/gutenberg-plugin-base.git',
-    'static-website':   'https://github.com/That-Dev-Girl-Boilerplates/static-website-base.git'
+    'static-website':   'https://github.com/That-Dev-Girl-Boilerplates/static-website-base.git',
+    'wordpress-theme':  'https://github.com/That-Dev-Girl-Boilerplates/wordpress-theme-base.git'
   },
 
 

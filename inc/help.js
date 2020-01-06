@@ -24,6 +24,7 @@ Available projects include:
   - gutenberg-block
   - gutenberg-plugin
   - static-website
+  - wordpress-theme
     `;
 
     // Display the message and then exit.

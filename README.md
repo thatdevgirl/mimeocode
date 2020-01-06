@@ -12,3 +12,4 @@ Available projects include:
 * gutenberg-block
 * gutenberg-plugin
 * static-website
+* wordpress-theme
