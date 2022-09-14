@@ -10,6 +10,6 @@
   "license": "ISC",
   "dependencies": {
     "nodegit": "0.27.*",
-    "fs-extra": "9.0.*"
+    "fs-extra": "10.1.*"
   }
 }
