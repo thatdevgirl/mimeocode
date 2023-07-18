@@ -1,6 +1,6 @@
 {
   "name": "mimeocode",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "A module to copy boilerplate code for new projects",
   "main": "index.js",
   "scripts": {
@@ -9,7 +9,7 @@
   "author": "Joni Halabi",
   "license": "ISC",
   "dependencies": {
-    "nodegit": "0.27.*",
-    "fs-extra": "10.1.*"
+    "nodegit": "0.27.0",
+    "fs-extra": "11.1.1"
   }
 }
