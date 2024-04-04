@@ -9,7 +9,7 @@
   "author": "Joni Halabi",
   "license": "ISC",
   "dependencies": {
-    "nodegit": "0.27.0",
+    "@figma/nodegit": "0.28.0-figma.6",
     "fs-extra": "11.1.1"
   }
 }

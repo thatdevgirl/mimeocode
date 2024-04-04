@@ -8,7 +8,7 @@ const help    = require( './inc/help.js' ),
       repos   = require( './inc/repos.js' ),
       fs      = require( 'fs-extra' ),
       spawn   = require( 'child_process' ).spawn,
-      nodegit = require( 'nodegit' );
+      nodegit = require( '@figma/nodegit' );
 
 
 const mimeocode = {
